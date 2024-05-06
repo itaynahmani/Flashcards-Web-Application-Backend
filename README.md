@@ -9,4 +9,4 @@ after you git clone this repo, you need to:
 5. Run the frontend (repo is flashcards-frontend)
 6. Enjoy!
 
-ALWAYS WORK ON A NEW BRANCH, DONT KNOW HOW TO DO IT? ASK YUVAL!
+
